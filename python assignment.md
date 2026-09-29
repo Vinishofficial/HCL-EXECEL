@@ -129,12 +129,12 @@ print("List after removing duplicates:", unique_numbers)
 ```python
 
 dict1 = {
-    "name": "Adithya",
+    "name": "VINISHRAJ R",
     "age": 21
 }
 
 dict2 = {
-    "department": "CSE",
+    "department": "AIDS",
     "college": "Engineering College"
 }
 
